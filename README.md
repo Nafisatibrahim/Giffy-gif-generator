@@ -3,6 +3,13 @@
 
 Translate Gen-Z slang into fun, expressive GIFs using the GIPHY API.
 
+## 📽 Demo
+
+Check out the app in action:
+
+![GIF Demo](gif-demo.gif)
+
+
 ## 🚀 Features
 
 - 🔤 **GIF Generator** – Type any Gen-Z word and get a matching GIF
