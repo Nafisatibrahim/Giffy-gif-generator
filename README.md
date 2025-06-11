@@ -11,6 +11,7 @@ Translate Gen-Z slang into fun, expressive GIFs using the GIPHY API.
 
 ## 🌐 Live Demo  
 👉 [Launch the App](https://giffy-gif-generator.streamlit.app/)
+
 Link: https://giffy-gif-generator.streamlit.app/
 
 ## ⚙️ Tech Stack
