@@ -1,11 +1,6 @@
 # Giffy - Gen-Z GIF Translator 🎉  
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://giffy-gif-generator.streamlit.app/)
 
-Translate Gen-Z slang into fun GIFs using the GIPHY API.
-
-# Giffy - Gen-Z GIF Translator 🎉  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://giffy-gif-generator.streamlit.app/)
-
 Translate Gen-Z slang into fun, expressive GIFs using the GIPHY API.
 
 ## 🚀 Features
@@ -16,6 +11,7 @@ Translate Gen-Z slang into fun, expressive GIFs using the GIPHY API.
 
 ## 🌐 Live Demo  
 👉 [Launch the App](https://giffy-gif-generator.streamlit.app/)
+Link: https://giffy-gif-generator.streamlit.app/
 
 ## ⚙️ Tech Stack
 
