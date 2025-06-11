@@ -7,7 +7,7 @@ Translate Gen-Z slang into fun, expressive GIFs using the GIPHY API.
 
 Check out the app in action:
 
-![GIF Demo](gif-demo.gif)
+![GIF Demo](gif-generator-demo.gif)
 
 
 ## 🚀 Features
